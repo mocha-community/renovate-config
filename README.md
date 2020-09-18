@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/%40mocha-community%2Frenovate-config.svg)](https://badge.fury.io/js/%40mocha-community%2Frenovate-config)
+[![npm version](https://badge.fury.io/js/%40mochajs%2Frenovate-config.svg)](https://badge.fury.io/js/%40mochajs%2Frenovate-config)
 
 # @mochajs/renovate-config
 
