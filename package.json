@@ -1,0 +1,28 @@
+{
+  "name": "@mochajs/renovate-config",
+  "version": "0.1.0",
+  "description": "Shareable Config Presets for Renovate",
+  "scripts": {
+    "test": "renovate-config-validator"
+  },
+  "devDependencies": {
+    "renovate": "23.31.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mocha-community/renovate-config.git"
+  },
+  "homepage": "https://github.com/mocha-community/renovate-config",
+  "bugs": {
+    "url": "https://github.com/mocha-community/renovate-config/issues"
+  },
+  "license": "MIT",
+  "files": [],
+  "renovate-config": {
+    "default": {
+      "extends": [
+        "config:base"
+      ]
+    }
+  }
+}
