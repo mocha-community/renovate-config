@@ -6,7 +6,7 @@
     "test": "renovate-config-validator"
   },
   "devDependencies": {
-    "renovate": "23.56.4"
+    "renovate": "23.67.0"
   },
   "repository": {
     "type": "git",
