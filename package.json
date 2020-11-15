@@ -19,9 +19,9 @@
   "license": "MIT",
   "files": [],
   "renovate-config": {
-    "default": {
-      "extends": [
-        "config:base"
+    "_default": {
+      "_extends": [
+        "_config:base"
       ]
     }
   }
