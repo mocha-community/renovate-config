@@ -1,6 +1,4 @@
-[![npm version](https://badge.fury.io/js/%40mochajs%2Frenovate-config.svg)](https://badge.fury.io/js/%40mochajs%2Frenovate-config)
-
-# @mochajs/renovate-config
+# renovate-config
 
 Shareable Config Presets for Renovate
 
@@ -9,7 +7,7 @@ Shareable Config Presets for Renovate
 ```json
 {
   "extends": [
-    "@mochajs"
+    "github>mocha-community/renovate-config"
   ]
 }
 ```
