@@ -1,4 +1,4 @@
-# @mochajs/renovate-config
+# renovate-config
 
 Shareable Config Presets for Renovate
 
